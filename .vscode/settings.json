@@ -1,0 +1,8 @@
+{
+    "inlineFold.supportedLanguages": [
+        "html",
+        "svelte",
+        "javascript",
+        "javascriptreact"
+    ]
+}
